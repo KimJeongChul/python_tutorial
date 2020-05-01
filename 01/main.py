@@ -52,9 +52,7 @@ print(random.uniform(-1, 1)) # 랜덤 소수값
 # lotto
 lotto = random.sample(range(1, 46), 6)
 print(lotto)
-
 lotto = random.sample(range(1, 46), 6)
 print(lotto)
-
 lotto = random.sample(range(1, 46), 6)
 print(lotto)
